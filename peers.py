@@ -1,4 +1,5 @@
 from socket import *
+# Maybe we could use json to send objects?
 import json
 
 # For testing
